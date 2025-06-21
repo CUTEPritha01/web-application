@@ -1,1 +1,1 @@
-hey it's from pritha
+just test with mcp server

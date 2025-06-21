@@ -1,1 +1,1 @@
-hey it's from mcp testing server 
+hey it's from mcp server

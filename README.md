@@ -1,1 +1,1 @@
-just test with mcp server
+hey it's from mcp testing server 

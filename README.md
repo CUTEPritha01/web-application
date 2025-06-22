@@ -1,1 +1,1 @@
-hallo swarup
+this project managed by gemini

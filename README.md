@@ -1,1 +1,1 @@
-Hello from mcp project
+hi solo

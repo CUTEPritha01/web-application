@@ -1,1 +1,1 @@
-hey just told the bot and they do it for you
+Hello from mcp project

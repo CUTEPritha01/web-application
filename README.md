@@ -1,1 +1,1 @@
-hey it's from pritha for mcp testing
+hey just told the bot and they do it for you
